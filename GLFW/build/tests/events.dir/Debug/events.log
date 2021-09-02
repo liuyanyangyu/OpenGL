@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/workspace/GLFW/tests/CMakeLists.txt
+  events.c
+  getopt.c
+  glad_gl.c
+  正在生成代码...
+  events.vcxproj -> D:\workspace\GLFW\build\tests\Debug\events.exe
